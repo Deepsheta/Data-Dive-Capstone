@@ -1,6 +1,6 @@
 # Housing Crisis Fiction or Fact?
 
-# Objective & Goals:
+## Objective & Goals:
 
 The primary objective of our project “Housing Crisis in Canada: Friction or Fact? " Is to critically assess
 the housing crisis in Canada, differentiating between perceived notions and the actual impact. We aim
