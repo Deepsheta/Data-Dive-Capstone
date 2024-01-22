@@ -15,4 +15,5 @@ implications for Canadians.
 
 ## INTERPRETATION
 The housing crisis in Canada appears to be a tangible reality rather than a mere fiction. The available data points towards a substantial and persistent surge in housing-related challenges. Factors such as escalating property prices, a notable increase in demand, and limited affordability underscore the severity of the situation. The prevalence of issues like homelessness, bidding wars, and an insufficient housing supply further solidifies the interpretation that Canada is indeed grappling with a genuine housing crisis. 
+
 By acknowledging these multifaceted dimensions, our project seeks to contribute to a holistic understanding of the housing crisis in Canada and advocate for comprehensive solutions that address the real and pressing needs of the population.
